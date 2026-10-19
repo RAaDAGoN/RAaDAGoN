@@ -80,8 +80,11 @@ sla_target: "99.99%"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAaDAGoN&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" width="48%" />
 </div>
 
+<!-- Вместо сломанного Activity Graph используем надежный Profile Details и Top Languages -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAaDAGoN&bg_color=0D1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAaDAGoN&theme=github_dark" alt="Profile Details" width="98%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAaDAGoN&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=6DB33F&text_color=c9d1d9" alt="Top Languages" width="60%" />
 </div>
 
 ---
