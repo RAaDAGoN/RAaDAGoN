@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Динамический заголовок в стиле терминала -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=600&lines=Initializing+RAaDAGoN+Core...;Role:+Java+Backend+Architect;Status:+Ready+for+High-Load;Architecture:+Clean+%26+Event-Driven" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=600&lines=Initializing+RAaDAGoN+Core...;Role:+Self-Taught+Java+Backend+Dev;Status:+Open+to+Work+%2F+Internship;Focus:+Spring+Ecosystem+%26+Clean+Code" alt="Typing SVG" />
 
 <!-- Плашки со статусом -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-6DB33F?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/UPTIME-99.99%25-brightgreen?style=for-the-badge&logo=linux&logoColor=white" alt="Uptime" />
-  <img src="https://img.shields.io/badge/COFFEE-OVERFLOW-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-6DB33F?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/DRIVE-100%25-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Drive" />
+  <img src="https://img.shields.io/badge/COFFEE-FUELING_CODE-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
 </p>
 
 </div>
@@ -19,57 +19,64 @@
 ```yaml
 system:
   user: "RAaDAGoN"
-  role: "Lead Backend Engineer"
-  location: "Node: Earth | Cluster: Production"
-  stack_focus: "Java, Spring Boot, Distributed Systems"
-  philosophy: "If it compiles, ship it. If it scales, keep it."
+  role: "Junior Java Backend Developer (Self-Taught)"
+  location: "Node: Earth | Status: Remote / Office"
+  focus: "Building robust REST APIs & mastering Spring"
+  philosophy: "First, solve the problem. Then, write the code."
 ```
 
-Я проектирую отказоустойчивые микросервисные архитектуры, оптимизирую базы данных и пишу код, который переживет пиковые нагрузки в Черную пятницу. Не боюсь легаси, но предпочитаю строить с нуля на современных стеках.
+Привет! Я начинающий бэкенд-разработчик на Java (самоучка). Мой путь начался с изучения основ Computer Science, ООП и синтаксиса Java, и сейчас я активно погружаюсь в экосистему Spring. 
+Вместо бесконечных курсов я предпочитаю учиться через практику — пишу свои пет-проекты, ломаю их, чиню, пишу тесты и рефакторю. Ищу свою первую команду, где смогу приносить пользу, учиться у сеньоров и расти как инженер.
 
 ---
 
-### ⚡ Tech Arsenal
+### ⚡ Tech Arsenal (Current Stack)
 
 <div align="center">
   <!-- Ядро -->
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" alt="Core Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Core Stack" /><br>
   <!-- Базы данных -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="Databases" /><br>
-  <!-- Инфраструктура и брокеры -->
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,kubernetes,linux,git" alt="Infrastructure" /><br>
-  <!-- Тестирование и прочее -->
-  <img src="https://skillicons.dev/icons?i=idea,postman,githubactions" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /><br>
+  <!-- Инфраструктура и инструменты -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="Infrastructure" /><br>
+  <!-- Инструменты -->
+  <img src="https://skillicons.dev/icons?i=idea,postman" alt="Tools" />
 </div>
+
+<br>
+
+*Сейчас в процессе изучения:* **JUnit 5, Mockito, Docker Compose, Spring Security** *(обновляется по мере прокачки)*.
 
 ---
 
-### ⚙️ System Architecture & Current Directives
+### 🎯 Learning Roadmap & Goals
 
-*Мой текущий фокус и архитектурные принципы:*
+*Мой текущий фокус и архитектурные принципы, которые я применяю в учебе:*
 
 ```yaml
-# cluster-config.yml
-architecture: "Microservices & Event-Driven Design"
-design_patterns: ["CQRS", "Saga", "Circuit Breaker", "Outbox"]
+# roadmap.yml
 current_focus:
-  - "Java 21 Virtual Threads (Project Loom)"
-  - "Optimizing Kafka consumers for high throughput"
-  - "Distributed tracing with OpenTelemetry"
-sla_target: "99.99%"
+  - "Глубокое понимание Spring Boot 3 (IoC, DI, Data JPA)"
+  - "Написание Unit-тестов (JUnit 5, Mockito)"
+  - "Понимание RESTful архитектуры и HTTP-статусов"
+  - "Работа с реляционными БД (PostgreSQL, написание SQL запросов)"
+next_steps:
+  - "Контейнеризация проектов через Docker"
+  - "Изучение Message Brokers (Kafka basics)"
+  - "Знакомство с микросервисной архитектурой"
 ```
 
 ---
 
-### 🗄️ Service Registry (Featured Projects)
+### 🗄️ Pet Projects (What I've Built)
 
-*Реестр моих активных сервисов и разработок (замени ссылки и описания на свои реальные проекты):*
+*Мои учебные и личные проекты. Здесь я применяю теорию на практике (замени ссылки на свои реальные репозитории):*
 
-| Service Name | Status | Tech Stack | Description |
+| Project Name | Status | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| [**`core-api-service`**](https://github.com/RAaDAGoN) | 🟢 `ACTIVE` | Java 21, Spring Boot 3, PostgreSQL | High-load REST API for core business logic. |
-| [**`auth-gateway`**](https://github.com/RAaDAGoN) | 🟢 `ACTIVE` | Spring Cloud, JWT, Redis | Distributed authentication and authorization. |
-| [**`event-processor`**](https://github.com/RAaDAGoN) | 🟡 `BETA` | Kafka, Java, Docker | Async worker for processing millions of events. |
+| [**`task-manager-api`**](https://github.com/RAaDAGoN) | 🟢 `COMPLETED` | Java 17, Spring Boot, PostgreSQL | REST API для управления задачами (CRUD, фильтрация, пагинация). |
+| [**`url-shortener`**](https://github.com/RAaDAGoN) | 🟡 `IN PROGRESS` | Java 17, Spring Boot, Docker | Сервис по сокращению ссылок с базовой аналитикой переходов. |
+| [**`java-console-apps`**](https://github.com/RAaDAGoN) | 🔵 `LEARNING` | Java Core, OOP | Сборник консольных задач для прокачки алгоритмов и SOLID. |
 
 ---
 
@@ -80,7 +87,6 @@ sla_target: "99.99%"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAaDAGoN&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" width="48%" />
 </div>
 
-<!-- Вместо сломанного Activity Graph используем надежный Profile Details и Top Languages -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAaDAGoN&theme=github_dark" alt="Profile Details" width="98%" />
   <br><br>
@@ -91,7 +97,7 @@ sla_target: "99.99%"
 
 ### 🔌 Establish Connection
 
-Готов к обсуждению архитектуры, менторству или сложным бэкенд-челленджам. Пингуй:
+Открыт к предложениям о стажировке, позиции Junior-разработчика или просто к интересному общению на тему бэкенда. Пингуй:
 
 <div align="center">
   <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
@@ -108,5 +114,5 @@ sla_target: "99.99%"
 <br>
 
 <div align="center">
-  <i>"Make it work, make it right, make it fast."</i>
+  <i>"The expert in anything was once a beginner."</i>
 </div>
