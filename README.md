@@ -21,7 +21,7 @@
 
 ```json
 {
-  "username": "@YOUR_USERNAME",
+  "username": "@RAaDAGoN",
   "specialization": "Java Backend Development",
   "architecture": ["Microservices", "Event-Driven", "RESTful API"],
   "focus": "Writing clean, testable code & surviving high-load traffic",
