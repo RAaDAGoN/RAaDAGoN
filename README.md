@@ -26,7 +26,7 @@ system:
 ```
 
 Привет! Я начинающий бэкенд-разработчик на Java (самоучка). Мой путь начался с изучения основ Computer Science, ООП и синтаксиса Java, и сейчас я активно погружаюсь в экосистему Spring. 
-Вместо бесконечных курсов я предпочитаю учиться через практику — пишу свои пет-проекты, ломаю их, чиню, пишу тесты и рефакторю. Ищу свою первую команду, где смогу приносить пользу, учиться у сеньоров и расти как инженер.
+Вместо бесконечных курсов я предпочитаю учиться через практику — пишу свои пет-проекты, вывожу их в прод, чиню, пишу тесты и рефакторю. Ищу свою первую команду, где смогу приносить пользу, учиться у опытных коллег и расти как инженер.
 
 ---
 
@@ -38,45 +38,47 @@ system:
   <!-- Базы данных -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /><br>
   <!-- Инфраструктура и инструменты -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="Infrastructure" /><br>
-  <!-- Инструменты -->
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux" alt="Infrastructure" /><br>
+  <!-- Вспомогательный фронтенд -->
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,html,css" alt="Frontend" /><br>
+  <!-- Инструменты разработки -->
   <img src="https://skillicons.dev/icons?i=idea,postman" alt="Tools" />
 </div>
 
 <br>
 
-*Сейчас в процессе изучения:* **JUnit 5, Mockito, Docker Compose, Spring Security** *(обновляется по мере прокачки)*.
+*В активной практике:* **Spring Security, Liquibase, JUnit 5, MockMvc, Docker Compose, Thymeleaf**.
 
 ---
 
 ### 🎯 Learning Roadmap & Goals
 
-*Мой текущий фокус и архитектурные принципы, которые я применяю в учебе:*
+*Мой текущий фокус и архитектурные принципы, которые я применяю в разработке:*
 
 ```yaml
 # roadmap.yml
 current_focus:
-  - "Глубокое понимание Spring Boot 3 (IoC, DI, Data JPA)"
-  - "Написание Unit-тестов (JUnit 5, Mockito)"
-  - "Понимание RESTful архитектуры и HTTP-статусов"
-  - "Работа с реляционными БД (PostgreSQL, написание SQL запросов)"
+  - "Глубокое понимание Spring Boot (Security, Data JPA, транзакции)"
+  - "Написание качественных Unit и Integration тестов (JUnit 5, Mockito)"
+  - "Версионирование и миграции БД (PostgreSQL, Liquibase)"
+  - "Проектирование чистой и безопасной RESTful архитектуры"
 next_steps:
-  - "Контейнеризация проектов через Docker"
-  - "Изучение Message Brokers (Kafka basics)"
-  - "Знакомство с микросервисной архитектурой"
+  - "Изучение Message Brokers (Kafka / RabbitMQ)"
+  - "Кэширование данных с помощью Redis"
+  - "Настройка базовых CI/CD пайплайнов (GitHub Actions)"
 ```
 
 ---
 
 ### 🗄️ Pet Projects (What I've Built)
 
-*Мои учебные и личные проекты. Здесь я применяю теорию на практике (замени ссылки на свои реальные репозитории):*
+*Мои основные проекты, в которых я применяю архитектурные паттерны и довожу код до работающего решения:*
 
 | Project Name | Status | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| [**`task-manager-api`**](https://github.com/RAaDAGoN) | 🟢 `COMPLETED` | Java 17, Spring Boot, PostgreSQL | REST API для управления задачами (CRUD, фильтрация, пагинация). |
-| [**`url-shortener`**](https://github.com/RAaDAGoN) | 🟡 `IN PROGRESS` | Java 17, Spring Boot, Docker | Сервис по сокращению ссылок с базовой аналитикой переходов. |
-| [**`java-console-apps`**](https://github.com/RAaDAGoN) | 🔵 `LEARNING` | Java Core, OOP | Сборник консольных задач для прокачки алгоритмов и SOLID. |
+| [**`furshet`**](https://github.com/RAaDAGoN/furshet) | 🟢 `PRODUCTION` | Java 21, Spring Boot, Vue 3, PostgreSQL, Docker, Nginx | Полнофункциональная платформа для кейтеринга: витрина, панель админа, асинхронные HTML-уведомления и деплой через Docker Compose. |
+| [**`Trello`**](https://github.com/RAaDAGoN/Trello) | 🟢 `COMPLETED` | Spring Boot, Spring Security, Thymeleaf, Liquibase, Tailwind | Канбан-доска задач: защита от IDOR (publicId), каскадное управление колонками, инлайн-редактирование и миграции Liquibase. |
+| [**`ToDoBot`**](https://github.com/RAaDAGoN/ToDoBot) | 🟢 `COMPLETED` | Java, Spring, Telegram Bots API | Telegram-бот для управления личными задачами и напоминаниями. |
 
 ---
 
@@ -97,17 +99,14 @@ next_steps:
 
 ### 🔌 Establish Connection
 
-Открыт к предложениям о стажировке, позиции Junior-разработчика или просто к интересному общению на тему бэкенда. Пингуй:
+Открыт к предложениям о стажировке, позиции Junior-разработчика или просто к интересному профессиональному общению. Пингуй:
 
 <div align="center">
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
+  <a href="https://t.me/Radag0n0">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:ТВОЙ_EMAIL@mail.com">
+  <a href="mailto:alecsandr.bondarev21@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
